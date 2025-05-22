@@ -86,3 +86,5 @@ protocols.
 The string "gpg-bridge-ssh" can be changed to anything you want, just make sure it's consistent everywhere.
 
 [1]: https://docs.github.com/en/actions/managing-workflow-runs/downloading-workflow-artifacts
+
+<!-- trigger -->
